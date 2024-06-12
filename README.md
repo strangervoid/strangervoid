@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">hello, i'm mile</h1>
-<h3 align="center">a med it student living somewhere in germany</h3>
+<h1 align="center">hello, I'm Mileta</h1>
+<h3 align="center">a Med-IT student living somewhere in germany</h3>
 
 - 🌱 i’m currently learning **some python**
 - 🎮 i really enjoy FFXIV and **indie games**
