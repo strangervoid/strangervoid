@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">hello, I'm Mileta</h1>
 
 
-- 🌱 i’m currently learning **some angular**
+- 🌱 i’m currently learning **angular**
 - 🎮 i really enjoy **indie games**
 - 🎵 dm me **dnb tracks** on the blue bird app, ty
 
