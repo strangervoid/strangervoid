@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">hello, I'm Mile</h1>
 
 
-- 🌱 i’m currently learning **angular**
-- 🎮 i really enjoy **indie games**
-- 🎵 dm me **dnb tracks** on the blue bird app, ty
+- 🌱 i’m currently learning **how to build backends**
+- 🎮 i waste my life time on **video games**
+- 🎵 dm me **dnb tracks** on blue bird app, ty
 
 
 
