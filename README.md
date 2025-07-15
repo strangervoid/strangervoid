@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">hello, I'm Mile</h1>
 
 
-- 🌱 i’m currently learning **how to build backends**
+- 🔭 i’m currently working on a little fullstack **kanban app**
 - 🎮 i waste my life time on **video games**
 - 🎵 dm me **dnb tracks** on blue bird app, ty
 
