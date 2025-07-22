@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">hello, I'm Mile</h1>
+<h1 align="center">hello, i'm mile</h1>
 
 
 - 🔭 i’m currently working on a little fullstack **kanban app**
